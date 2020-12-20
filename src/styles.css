@@ -1,0 +1,80 @@
+.App {
+  font-family: "Courier New", Courier;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 60%;
+}
+
+.btn {
+  cursor: pointer;
+  padding: 1rem 3rem;
+  margin: 1rem;
+  background-color: rgb(39, 168, 155);
+  font-size: 1.2rem;
+  font-family: "Courier New", Courier;
+  font-weight: 700;
+}
+
+.btn:hover {
+  background-color: white;
+}
+
+.listStyle {
+  list-style: none;
+  padding: 1rem;
+  max-width: 40%;
+  border: 2px solid #000;
+  background-color: white;
+  text-align: center;
+  margin: auto;
+  margin-top: 1.5rem;
+  color: rgb(39, 168, 155);
+}
+
+.header {
+  background-color: rgb(39, 168, 155);
+  display: block;
+  max-width: 100%;
+  padding: 5rem;
+}
+
+.name {
+  font-weight: bold;
+  font-size: x-large;
+  padding: 10px 5px;
+}
+
+h2 {
+  color: rgb(183, 44, 196);
+  font-weight: 700;
+}
+
+body {
+  //background-color: rgb(99, 209, 191);
+}
+
+h1 {
+  color: white;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgb(99, 209, 191);
+  font-weight: 700;
+}
+
+img {
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 20px;
+  padding-top: 5px;
+}
